@@ -13,7 +13,6 @@
 
 <br>
 
-### ✦ Neler Yapıyorum?
 <table width="100%">
   <tr>
     <td width="50%" valign="top">
@@ -27,9 +26,9 @@
     <td width="50%" valign="top">
       <h4>💡 Ürün & İş Etkisi</h4>
       <ul>
-        <li>E-ticaret platformlarının (Sade Flowers) uçtan uca teslimi ve satışı</li>
-        <li>Uluslararası Etsy operasyonu yönetimi ve %40 büyüme hacmi</li>
-        <li>Lighthouse skoru 90+ olan, performans odaklı UI/UX projeleri</li>
+        <li>E-ticaret platformlarının (Sade Flowers) uçtan uca teslimi ve satışı[cite: 3]</li>
+        <li>Uluslararası Etsy operasyonu yönetimi ve %40 büyüme hacmi[cite: 2]</li>
+        <li>Lighthouse skoru 90+ olan, performans odaklı UI/UX projeleri[cite: 2]</li>
       </ul>
     </td>
   </tr>
@@ -37,18 +36,14 @@
 
 <br>
 
-### ✦ Öne Çıkan Projeler
-
 | Proje | Rol & Odak | Teknolojiler | Durum |
 | :--- | :--- | :--- | :--- |
-| **[Flo - Diyabetik Ayak Sistemi](https://github.com/tanergokcek/Flo)** | Kurumsal Ar-Ge, Cross-Platform Mobil & Web | `React Native` `UI/UX` `Web Dashboard` | 🟢 Tamamlandı |
-| **[NutuHabit](https://github.com/tanergokcek/nutuhabit)** | Bitirme Projesi, Alışkanlık Takip Asistanı | `React Native` `TypeScript` | 🟢 Tamamlandı |
-| **Sade Flowers** | Kurucu / Full-Stack Geliştirici | `Next.js` `SEO` `React` | 💰 Satıldı |
-| **Kurumsal Web Ağı** | Uçtan Uca Geliştirme (Akman, Dre, Seyyah) | `Next.js` `SSG` `Tailwind` | 🚀 Yayında |
+| **[Flo - Diyabetik Ayak Sistemi](https://github.com/tanergokcek/Flo)** | Kurumsal Ar-Ge, Cross-Platform Mobil & Web[cite: 3] | `React Native` `UI/UX` `Web Dashboard` | 🟢 Tamamlandı |
+| **[NutuHabit](https://github.com/tanergokcek/nutuhabit)** | Bitirme Projesi, Alışkanlık Takip Asistanı[cite: 3] | `React Native` `TypeScript` | 🟢 Tamamlandı |
+| **Sade Flowers** | Kurucu / Full-Stack Geliştirici[cite: 3] | `Next.js` `SEO` `React` | 💰 Satıldı[cite: 3] |
+| **Kurumsal Web Ağı** | Uçtan Uca Geliştirme (Akman, Dre, Seyyah)[cite: 3] | `Next.js` `SSG` `Tailwind` | 🚀 Yayında |
 
 <br>
-
-### ✦ Teknik Zula
 
 **Diller:** <kbd>TypeScript</kbd> <kbd>JavaScript (ES6+)</kbd> <kbd>Java</kbd> <kbd>C/C++</kbd> <kbd>HTML5/CSS3</kbd><br>
 **Frontend & Mobil:** <kbd>React Native</kbd> <kbd>Next.js 14</kbd> <kbd>React.js</kbd> <kbd>Tailwind CSS</kbd> <kbd>Vite</kbd><br>
@@ -57,15 +52,13 @@
 
 <br>
 
-### ✦ Kariyer Özeti
-
-- **Freelance Web Geliştirici** (Eyl '25 - Haz '26) — *Next.js ile kurumsal siteler ve satışı gerçekleşen e-ticaret projesi (Sade Flowers).*
-- **Fullstack Stajyeri @ Kodpit** (Tem '26 - Ağu '26) — *SSR/SSG destekli mimari, Node.js + MongoDB API geliştirmeleri (Yanıt süresi <200ms).*
-- **Girişimci / Dijital Satış @ Etsy** (Eyl '23 - Eyl '24) — *3 farklı mağaza yönetimi, SEO optimizasyonu ile 4 ülkeye ihracat.*
-- **Test Mühendisi & Frontend Stajyeri @ Lojister** (Mar '21 - Tem '25) — *Kritik güvenlik açığı tespiti, React.js ve Tailwind ile Lighthouse skoru 90+ uygulamalar.*
-- **Eğitim:** Pamukkale Üniversitesi - Bilgisayar Mühendisliği ('20 - '26)
+- **Freelance Web Geliştirici** (Eyl '25 - Haz '26) — *Next.js ile kurumsal siteler ve satışı gerçekleşen e-ticaret projesi (Sade Flowers)[cite: 3].*
+- **Fullstack Stajyeri @ Kodpit** (Tem '26 - Ağu '26) — *SSR/SSG destekli mimari, Node.js + MongoDB API geliştirmeleri (Yanıt süresi <200ms)[cite: 2].*
+- **Girişimci / Dijital Satış @ Etsy** (Eyl '23 - Eyl '24) — *3 farklı mağaza yönetimi, SEO optimizasyonu ile 4 ülkeye ihracat[cite: 2].*
+- **Test Mühendisi & Frontend Stajyeri @ Lojister** (Mar '21 - Tem '25) — *Kritik güvenlik açığı tespiti, React.js ve Tailwind ile Lighthouse skoru 90+ uygulamalar[cite: 2, 3].*
+- **Eğitim:** Pamukkale Üniversitesi - Bilgisayar Mühendisliği ('20 - '26)[cite: 3]
 
 ---
 <div align="center">
-  <i>Boş zamanlarımda <a href="#">FL Studio'da müzik üretiyor</a> ve basketbol oynuyorum. Müzik veya teknoloji hakkında konuşmak istersen bana ulaşabilirsin. 🎵🏀</i>
+  <i>Boş zamanlarımda <a href="#">FL Studio'da müzik üretiyor</a> ve basketbol oynuyorum[cite: 3]. Müzik veya teknoloji hakkında konuşmak istersen bana ulaşabilirsin. 🎵🏀</i>
 </div>
