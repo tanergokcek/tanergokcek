@@ -13,12 +13,6 @@
 
 <br>
 
-### ✦ Neler Yapıyorum?
-
-<br>
-
-### ✦ Öne Çıkan Projeler
-
 <br>
 
 **Diller:** <kbd>TypeScript</kbd> <kbd>JavaScript (ES6+)</kbd> <kbd>Java</kbd> <kbd>C/C++</kbd> <kbd>HTML5/CSS3</kbd><br>
@@ -31,6 +25,4 @@
 ### ✦ Kariyer Özeti
 
 ---
-<div align="center">
-  <i>Boş zamanlarımda <a href="#">FL Studio'da müzik üretiyor</a> ve basketbol oynuyorum[cite: 3]. Müzik veya teknoloji hakkında konuşmak istersen bana ulaşabilirsin. 🎵🏀</i>
-</div>
+
